@@ -1,4 +1,4 @@
-## Continous ML
+## Continuous ML
 
 ![](img/ct_outline.png)
 
